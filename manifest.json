@@ -1,11 +1,11 @@
 {
   "name": "Anunta Intelligence",
   "short_name": "AI",
-  "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "theme_color": "#781E59",
+  "background_color": "#781E59",
   "display": "standalone",
-  "scope": "/ai/",
-  "start_url": "/ai/",
+  "scope": "/AI/",
+  "start_url": "/AI/",
   "icons": [
     {
       "src": "assets/images/anunta-192x192.png",
